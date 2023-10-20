@@ -1,0 +1,20 @@
+#Solution for "Number Line Jumps" https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
+#Problem Solving-> Algorithms-> Data Structures
+
+
+def kangaroo(x1, v1, x2, v2):
+    
+    if (x1 < x2 and v1 <= v2) or (x2 < x1 and v2 <= v1):
+        print("NO")
+        return
+
+    
+    if (x1 - x2) % (v2 - v1) == 0:
+        print("YES")
+    else:
+        print("NO")
+
+
+num = input()
+newNum = list(map(int, num.split()))
+kangaroo(newNum[0], newNum[1], newNum[2], newNum[3])
