@@ -1,4 +1,5 @@
-
+#Solution for "Divisible Sum Pairs" https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true
+#Problem Solving-> Algorithms-> Data Structures
 
 
 def divisibleSumPairs(n, k, ar):
