@@ -1,4 +1,5 @@
-
+#Solution for "Migratory Birds" https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true
+#Problem Solving-> Algorithms-> Data Structures
 
 
 from collections import Counter
