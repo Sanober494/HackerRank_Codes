@@ -1,4 +1,5 @@
-#Solution for "Simple Array Sum" https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
+#Solution for "Simple Array Sum" 
+#Link: https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
 
 #Problem Solving-> Algorithms-> Data Structures
 
