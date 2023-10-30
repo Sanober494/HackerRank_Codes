@@ -1,4 +1,5 @@
-#Solution for "Number Line Jumps" https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
+#Solution for "Number Line Jumps" 
+#Link: https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
 
