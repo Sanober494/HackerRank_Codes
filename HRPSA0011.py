@@ -1,4 +1,5 @@
-#Solution for "Between Two Sets" https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true
+#Solution for "Between Two Sets" 
+#Link: https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
 def getTotalX(a, b):
