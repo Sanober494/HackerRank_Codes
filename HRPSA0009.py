@@ -1,4 +1,5 @@
-#Solution for "Grading Students" https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
+#Solution for "Grading Students" 
+#Link: https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
 
