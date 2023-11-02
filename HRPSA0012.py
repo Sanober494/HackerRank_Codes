@@ -1,4 +1,5 @@
-#Solution for "Breaking the Records" https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true
+#Solution for "Breaking the Records" 
+#Link: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
 
