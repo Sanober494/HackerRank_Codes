@@ -1,4 +1,5 @@
-#Solution for "Time Conversion" https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true
+#Solution for "Time Conversion" 
+#Link: https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
 
