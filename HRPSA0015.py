@@ -1,4 +1,5 @@
-#Solution for "Counting Valleys" https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true
+#Solution for "Counting Valleys" 
+#Link: https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
 
