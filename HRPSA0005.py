@@ -1,6 +1,5 @@
 #Solution for "Plus Minus" 
 #Link: https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true
-
 #Problem Solving-> Algorithms-> Data Structures
 
 
