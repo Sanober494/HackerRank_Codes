@@ -10,7 +10,6 @@ def getTotalX(a, b):
     for k in range(max_a, min_b + 1, max_a):
         if all(k % factor == 0 for factor in a) and all(factor % k == 0 for factor in b):
             n += 1
-
     print(n)
 
 length = input()
