@@ -1,4 +1,5 @@
-#Solution for "Day of the Programmer" https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true
+#Solution for "Day of the Programmer" 
+#Link: https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
 
