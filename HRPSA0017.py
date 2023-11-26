@@ -15,7 +15,6 @@ def climbingLeaderboard(ranked, player):
             player_ranks.append(1)
         else:
             player_ranks.append(i + 2)
-
     return player_ranks
 
 
