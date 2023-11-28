@@ -13,7 +13,6 @@ def designerPdfViewer(h, word):
             NewHeight=h[index]
             
     print(NewHeight*len(word))    
-    
 
 height=input()
 Height=list(map(int,height.split()))
