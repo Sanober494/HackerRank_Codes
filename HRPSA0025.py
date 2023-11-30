@@ -3,7 +3,6 @@
 #Problem Solving-> Algorithms-> Data Structures
 
 
-
 def sockMerchant(n, ar):
     pairs=0
     newList=[]
