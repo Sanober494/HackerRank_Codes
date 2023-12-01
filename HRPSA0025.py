@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
 def sockMerchant(n, ar):
     pairs=0
     newList=[]
