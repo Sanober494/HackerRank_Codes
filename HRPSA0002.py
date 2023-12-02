@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
 def simpleArraySum(ar):
     sum1=0
     for i in range(0,len(ar)):
