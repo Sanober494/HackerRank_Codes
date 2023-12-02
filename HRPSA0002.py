@@ -8,7 +8,6 @@ def simpleArraySum(ar):
         sum1+=ar[i]
     print (sum1)
 
-
 n=int(input())
 num=input()
 Arr=list(map(int,num.split()))
