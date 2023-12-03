@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
 def plusMinus(arr):
     Pos=0
     Neg=0
