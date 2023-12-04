@@ -3,7 +3,6 @@
 
 
 from collections import Counter
-
 def migratoryBirds(arr):  
     birdCounts = Counter(arr)
     maxFrequency = max(birdCounts.values())    
