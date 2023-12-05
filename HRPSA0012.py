@@ -2,8 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
-
 def breakingRecords(scores):
     Max=scores[0]
     Min=scores[0]
