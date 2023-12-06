@@ -1,6 +1,5 @@
 #Solution for "Apple Orange"
 #Link: https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true
-
 #Problem Solving-> Algorithms-> Data Structures
 
 
