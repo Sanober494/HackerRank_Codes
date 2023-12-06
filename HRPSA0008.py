@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
 def countApplesAndOranges(s, t, a, b, apples, oranges):
     new_apples=[]
     new_oranges=[]
