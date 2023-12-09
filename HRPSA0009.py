@@ -2,8 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
-
 def gradingStudents(grades):
     c=0
     a2=[]
