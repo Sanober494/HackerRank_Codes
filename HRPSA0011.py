@@ -6,7 +6,6 @@ def getTotalX(a, b):
     n = 0
     max_a = max(a)
     min_b = min(b)
-
     for k in range(max_a, min_b + 1, max_a):
         if all(k % factor == 0 for factor in a) and all(factor % k == 0 for factor in b):
             n += 1
