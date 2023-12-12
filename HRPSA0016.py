@@ -11,7 +11,6 @@ def bonAppetit(bill, k, b):
     else:
         print(b - anna)
 
-
 line = input()
 arr = list(map(int, line.split()))
 line1 = input()
