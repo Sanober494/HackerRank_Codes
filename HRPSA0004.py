@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
 def aVeryBigSum(ar):
     ans=sum(ar)
     return (ans)
