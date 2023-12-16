@@ -3,8 +3,7 @@
 #Problem Solving-> Algorithms-> Data Structure
 
 def birthday(s, d, m):
-    
-    ways = 0
+        ways = 0
  
     for i in range(len(s) - m + 1):
        
