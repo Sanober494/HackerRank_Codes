@@ -4,8 +4,7 @@
 
 def birthday(s, d, m):
     ways = 0
-    for i in range(len(s) - m + 1):
-       
+    for i in range(len(s) - m + 1):       
         if sum(s[i:i+m]) == d:
             ways += 1
 
