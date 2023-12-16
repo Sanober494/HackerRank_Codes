@@ -9,7 +9,6 @@ def birthday(s, d, m):
             ways += 1
     return ways
 
-
 s1=int(input())
 S =input()
 S_new=list(map(int,S.split()))
