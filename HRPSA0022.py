@@ -5,7 +5,6 @@
 def miniMaxSum(arr):
     min_val = min(arr)
     max_val = max(arr)
-
     total_sum = sum(arr)
 
     min_sum = total_sum - max_val
