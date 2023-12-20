@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structure
 
-
 def staircase(n):
     space= " "
     hashes="#"    
