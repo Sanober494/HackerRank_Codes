@@ -1,6 +1,5 @@
 #Solution for "Compare the triplets" 
 #Link: https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true
-
 #Problem Solving-> Algorithms-> Data Structures
 
 def compareTriplets(a, b):
