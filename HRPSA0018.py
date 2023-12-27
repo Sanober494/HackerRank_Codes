@@ -14,7 +14,6 @@ def beautifulDays(i, j, k):
     print(count)
             
 
-
 numbers=input()
 Num=list(map(int,numbers.split()))
 beautifulDays(Num[0],Num[1],Num[2])
