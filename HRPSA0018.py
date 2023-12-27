@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
 def beautifulDays(i, j, k):
     count=0
     for m in range(i,(j+1)):
