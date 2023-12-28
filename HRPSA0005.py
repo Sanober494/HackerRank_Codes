@@ -16,6 +16,7 @@ def plusMinus(arr):
     print(round(Pos/n,6))
     print(round(Neg/n,6))
     print(round(Zero/n,6))
+    
 Arr=[]
 n=int(input())
 a1=input()
