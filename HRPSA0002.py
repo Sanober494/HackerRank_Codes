@@ -12,3 +12,4 @@ n=int(input())
 num=input()
 Arr=list(map(int,num.split()))
 simpleArraySum(Arr)
+
