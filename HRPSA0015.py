@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
 def countingValleys(steps, path):
     level = 0 
     valley_count = 0  
