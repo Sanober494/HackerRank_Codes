@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structure
 
-
 def designerPdfViewer(h, word):
     index=0
     NewHeight=0
