@@ -16,7 +16,6 @@ def breakingRecords(scores):
             Low+=1
     print(High,Low)
 
-
 n=int(input())
 arr=input()
 Arr=list(map(int,arr.split()))
