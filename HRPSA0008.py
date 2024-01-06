@@ -26,16 +26,20 @@ s1=input()
 Arr=list(map(int,s1.split()))
 S=Arr[0]
 T=Arr[1]
+
 a1=input()
 Arr1=list(map(int,a1.split()))
 A=Arr1[0]
 B=Arr1[1]
+
 b1=input()
 Arr2=list(map(int,b1.split()))
 M=Arr2[0]
 N=Arr2[1]
 m_values=input()
+
 Arr3=list(map(int,m_values.split()))
 n_values=input()
 Arr4=list(map(int,n_values.split()))
+
 countApplesAndOranges(S, T, A, B, Arr3, Arr4)
