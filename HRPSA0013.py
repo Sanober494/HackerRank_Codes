@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
 def divisibleSumPairs(n, k, ar):
     c=0
     for i in range(0,len(ar)):
