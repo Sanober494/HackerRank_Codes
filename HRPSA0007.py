@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
 def dayOfProgrammer(year):
     Year=1918
     if (year==1918):
