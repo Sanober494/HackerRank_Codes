@@ -10,8 +10,7 @@ def diagonalDifference(arr):
         priSum+=arr[i][i]
     for j in range(0,n):
         secSum+=arr[j][n-1-j]
-    newSum=priSum-secSum
-    
+    newSum=priSum-secSum    
     return abs(newSum)
        
 n=int(input())
