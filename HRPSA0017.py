@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
 def climbingLeaderboard(ranked, player):
     ranked = sorted(set(ranked), reverse=True)
     player_ranks = []
