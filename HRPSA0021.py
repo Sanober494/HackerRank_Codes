@@ -8,7 +8,7 @@ def staircase(n):
     for i in range(1,n+1):
         print(space*(n-i), end="")
         print(hashes*i)      
-        
+    
         
 n1=int(input())
 staircase(n1)
