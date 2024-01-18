@@ -1,4 +1,4 @@
-#Solution for "Missing Numbersr" 
+#Solution for "Missing Numbers" 
 #Link: https://www.hackerrank.com/challenges/missing-numbers/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
