@@ -1,3 +1,7 @@
+#Solution for "Missing Numbersr" 
+#Link: https://www.hackerrank.com/challenges/missing-numbers/problem?isFullScreen=true
+#Problem Solving-> Algorithms-> Data Structures
+
 def missingNumbers(arr, brr):    
     freq_arr = {}
     freq_brr = {}    
