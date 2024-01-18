@@ -5,7 +5,6 @@
 def bonAppetit(bill, k, b):
     total = sum(bill)
     anna = (total - bill[k]) // 2
-    
     if b == anna:
         print("Bon Appetit")
     else:
