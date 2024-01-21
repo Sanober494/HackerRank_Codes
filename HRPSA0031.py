@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/morgan-and-a-string/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structure
 
-
 from collections import deque
 
 for i in range(int(input())):
