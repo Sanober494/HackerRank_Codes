@@ -4,8 +4,7 @@
 
 def beautifulDays(i, j, k):
     count=0
-    for m in range(i,(j+1)):
-        
+    for m in range(i,(j+1)):        
         l=str(m)[::-1]
         L=int(l)
         beautyNum=abs(m-L)
