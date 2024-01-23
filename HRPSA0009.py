@@ -22,7 +22,6 @@ def gradingStudents(grades):
         print(a2[k])
                             
 
-
 n=int(input())
 a1=[]
 for i in range(n):
