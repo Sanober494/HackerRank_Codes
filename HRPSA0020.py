@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structure
 
-
 def diagonalDifference(arr):
     priSum=0
     secSum=0
