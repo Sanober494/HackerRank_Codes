@@ -3,7 +3,6 @@
 #Problem Solving-> Algorithms-> Data Structures
 
 
-
 def angryProfessor(k, a):
     arr=input()
     c=0
