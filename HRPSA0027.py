@@ -3,8 +3,7 @@
 #Problem Solving-> Algorithms-> Data Structures
 
 def pickingNumbers(a):
-    numCount = {}
-    
+    numCount = {}    
     for num in a:
         numCount[num] = numCount.get(num, 0) + 1
         numCount[num + 1] = numCount.get(num + 1, 0) + 1
