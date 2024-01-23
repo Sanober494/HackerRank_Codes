@@ -19,8 +19,7 @@ def gradingStudents(grades):
         else:
             a2.append(grades[i])
     for k in range(len(a2)):
-        print(a2[k])
-                            
+        print(a2[k])                            
 
 n=int(input())
 a1=[]
