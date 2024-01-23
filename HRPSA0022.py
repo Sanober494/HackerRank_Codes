@@ -12,5 +12,5 @@ def miniMaxSum(arr):
 
 a1 = input()
 n = list(map(int, a1.split()))
-# Function call
+
 miniMaxSum(n)
