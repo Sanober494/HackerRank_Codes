@@ -16,7 +16,6 @@ def climbingLeaderboard(ranked, player):
             player_ranks.append(i + 2)
     return player_ranks
 
-
 NnumPlayer=int(input())
 scores=input()
 scoresArr=list(map(int,scores.split()))
