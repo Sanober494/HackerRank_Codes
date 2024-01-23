@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structures
 
-
 def angryProfessor(k, a):
     arr=input()
     c=0
