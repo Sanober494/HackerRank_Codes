@@ -5,7 +5,6 @@
 def climbingLeaderboard(ranked, player):
     ranked = sorted(set(ranked), reverse=True)
     player_ranks = []
-
     i = len(ranked) -1
     for score in player:
         while i >= 0 and score >= ranked[i]:
