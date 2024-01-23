@@ -13,7 +13,6 @@ def birthdayCakeCandles(candles):
             count+=1
     print(count)
         
-
 n1=int(input())
 n=input()
 a1=list(map(int,n.split()))
