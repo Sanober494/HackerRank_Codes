@@ -2,7 +2,6 @@
 #Link: https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true
 #Problem Solving-> Algorithms-> Data Structure
 
-
 def birthdayCakeCandles(candles):
     max=candles[0]
     count=0
