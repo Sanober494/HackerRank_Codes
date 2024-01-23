@@ -20,8 +20,7 @@ def gradingStudents(grades):
             a2.append(grades[i])
     for k in range(len(a2)):
         print(a2[k])
-            
-                
+                            
 
 
 n=int(input())
