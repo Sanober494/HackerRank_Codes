@@ -13,6 +13,5 @@ def pickingNumbers(a):
 
 n = int(input())
 arr = list(map(int, input().split()))
-
 result = pickingNumbers(arr)
 print(result)
