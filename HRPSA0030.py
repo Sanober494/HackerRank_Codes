@@ -4,8 +4,7 @@
 
 def balancedSums(arr):
     total_sum = sum(arr)
-    left_sum = 0
-    
+    left_sum = 0    
     for num in arr:
         total_sum -= num
         if left_sum == total_sum:
