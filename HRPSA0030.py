@@ -9,8 +9,7 @@ def balancedSums(arr):
         total_sum -= num
         if left_sum == total_sum:
             return "YES"
-        left_sum += num
-        
+        left_sum += num        
     return "NO"
 
 t = int(input())
