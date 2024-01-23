@@ -6,8 +6,7 @@ def designerPdfViewer(h, word):
     index=0
     NewHeight=0
     for l in word:
-        index=ord(l)-ord("a")
-            
+        index=ord(l)-ord("a")            
         if h[index] > NewHeight: 
             NewHeight=h[index]
             
