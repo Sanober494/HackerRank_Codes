@@ -21,7 +21,6 @@ def sockMerchant(n, ar):
                 pairs+=int(count/2)
     print(pairs)           
 
-
 n1=int(input())
 num=input()
 Num=list(map(int,num.split()))
