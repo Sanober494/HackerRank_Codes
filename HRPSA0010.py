@@ -11,7 +11,6 @@ def kangaroo(x1, v1, x2, v2):
     else:
         print("NO")
 
-
 num = input()
 newNum = list(map(int, num.split()))
 kangaroo(newNum[0], newNum[1], newNum[2], newNum[3])
