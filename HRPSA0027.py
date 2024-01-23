@@ -10,7 +10,6 @@ def pickingNumbers(a):
     maxlen = max(numCount.values())    
     return maxlen
 
-
 n = int(input())
 arr = list(map(int, input().split()))
 result = pickingNumbers(arr)
