@@ -14,6 +14,7 @@ def getTotalX(a, b):
 length = input()
 arr1 = input()
 Arr1 = list(map(int, arr1.split()))
+
 arr2 = input()
 Arr2 = list(map(int, arr2.split()))
 getTotalX(Arr1, Arr2)
