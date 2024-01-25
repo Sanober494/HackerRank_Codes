@@ -12,7 +12,9 @@ def divisibleSumPairs(n, k, ar):
     
 num=input()
 Num=list(map(int,num.split()))
+
 arr=input()
 Arr=list(map(int,arr.split()))
+
 divisibleSumPairs(Num[0],Num[1],Arr)
 
