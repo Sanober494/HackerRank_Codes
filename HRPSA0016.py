@@ -12,7 +12,9 @@ def bonAppetit(bill, k, b):
 
 line = input()
 arr = list(map(int, line.split()))
+
 line1 = input()
 arr1 = list(map(int, line1.split()))
+
 amtCharged = int(input())
 bonAppetit(arr1, arr[1], amtCharged)
