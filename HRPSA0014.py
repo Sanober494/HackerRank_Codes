@@ -10,6 +10,7 @@ def migratoryBirds(arr):
 
 num=int(input())
 Arr=input()
+
 newArr=list(map(int,Arr.split()))
 print(migratoryBirds(newArr))  
 
