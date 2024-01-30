@@ -8,5 +8,6 @@ def aVeryBigSum(ar):
 
 n=int(input())
 a1=input()
+
 A1=list(map(int,a1.split()))
 print(aVeryBigSum(A1))
