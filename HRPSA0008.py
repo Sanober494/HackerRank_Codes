@@ -19,6 +19,7 @@ def countApplesAndOranges(s, t, a, b, apples, oranges):
     for l in range(0,len(new_oranges)):
         if (new_oranges[l]>=s and new_oranges[l]<=t):
             orange_count+=1
+            
     print(apple_count)
     print(orange_count)
         
