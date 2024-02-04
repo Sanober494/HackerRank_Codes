@@ -14,6 +14,7 @@ def diagonalDifference(arr):
        
 n=int(input())
 matrix=[]
+
 for i in range(0,n):
     a1=input()  
     A1=list(map(int,a1.split()))
