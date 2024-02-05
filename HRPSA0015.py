@@ -16,6 +16,7 @@ def countingValleys(steps, path):
     
 n1 = int(input())
 stInput = input()
+
 st = list(stInput)
 result = countingValleys(n1, st)
 print(result)
