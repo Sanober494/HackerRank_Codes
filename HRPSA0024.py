@@ -12,6 +12,7 @@ def birthday(s, d, m):
 s1=int(input())
 S =input()
 S_new=list(map(int,S.split()))
+
 D=input()
 New=list(map(int,D.split()))
 D1=New[0]
