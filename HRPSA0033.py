@@ -9,6 +9,7 @@ def flippingBits(n):
     return decimalNum
 
 n1 = int(input())
+
 for i in range(n1):
     num = int(input())
     print(flippingBits(num))
