@@ -23,6 +23,7 @@ def gradingStudents(grades):
 
 n=int(input())
 a1=[]
+
 for i in range(n):
     a=int(input())
     a1.append(a)
