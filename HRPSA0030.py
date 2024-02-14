@@ -13,6 +13,7 @@ def balancedSums(arr):
     return "NO"
 
 t = int(input())
+
 for _ in range(t):
     num_elements = int(input())
     num_list = list(map(int, input().split()))
