@@ -23,5 +23,6 @@ def sockMerchant(n, ar):
 
 n1=int(input())
 num=input()
+
 Num=list(map(int,num.split()))
 sockMerchant(n1,Num)
