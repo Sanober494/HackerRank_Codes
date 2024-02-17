@@ -20,5 +20,6 @@ def plusMinus(arr):
 Arr=[]
 n=int(input())
 a1=input()
+
 Arr=list(map(int,a1.split()))
 plusMinus(Arr)
