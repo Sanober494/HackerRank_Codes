@@ -3,6 +3,7 @@
 #Problem Solving-> Algorithms-> Data Structures
 
 def dayOfProgrammer(year):
+    
     Year=1918
     if (year==1918):
         print("26.09.1918")
