@@ -15,4 +15,5 @@ for i in range(int(input())):
         else:
             string.append(b[0])
             b = b[1:]
+            
     print(''.join(string) + a[:-1] + b[:-1])
