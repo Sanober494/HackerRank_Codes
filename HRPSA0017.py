@@ -25,7 +25,6 @@ result=climbingLeaderboard(scoresArr,playerScoresArr)
 for i in range(0,len(result)):
     print(result[i])
 
-
 #Alternative way (using Pandas library)
 
 import pandas as pd
