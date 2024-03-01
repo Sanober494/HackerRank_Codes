@@ -3,7 +3,6 @@
 #Problem Solving-> Algorithms-> Data Structures
 
 from datetime import datetime
-
 def timeConversion(s):
     t=datetime.strptime(s,"%I:%M:%S%p")
     return (t.strftime("%H:%M:%S"))
