@@ -13,6 +13,7 @@ def plusMinus(arr):
             Neg+=1
         else:
             Zero+=1
+            
     print(round(Pos/n,6))
     print(round(Neg/n,6))
     print(round(Zero/n,6))
