@@ -22,6 +22,7 @@ A1=list(map(int,a1.split()))
 b1=input()
 B1=list(map(int,b1.split()))
 l=compareTriplets(A1,B1)
+
 for j in range(0,2):
     print(l[j], end=" ")
 
