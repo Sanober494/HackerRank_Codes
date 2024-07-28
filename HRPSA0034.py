@@ -1,3 +1,6 @@
+#Solution for "Electronics Shop" 
+#Link: https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true
+#Problem Solving-> Algorithms-> Data Structures
 
 def getMoneySpent(keyboards, drives, b):
     Tsum=0
